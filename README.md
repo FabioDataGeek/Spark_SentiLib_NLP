@@ -1,6 +1,13 @@
 # Spark_SentiLib_NLP
 In this repository you can find the Dockerfile and code used during my Master's Thesis
 
+# Introduction
+
+The main purpose of this repository is creating a Dockerfile that can build a container with Hadoop, Spark, Anaconda and SentiLib installed in order to make tests of processing time using RDDs and DataFrames of Apache Spark in Batch and Streaming. You can find information about Sentilib here: https://github.com/WGraterol64/SentiLib
+
+
+
+
 # How to make it work
 
 1. Install docker, in this case we want to use it in a Linux distribution. You can find the tutorial here: https://docs.docker.com/engine/install/
